@@ -1,5 +1,8 @@
 package com.zh8888.Java_API.String;
 
+/**
+ * String 常用操作示例：长度、索引、遍历、替换、判断、分割。
+ */
 public class StringDemo2 {
     /**
      * 主函数，用于演示字符串的常见操作。

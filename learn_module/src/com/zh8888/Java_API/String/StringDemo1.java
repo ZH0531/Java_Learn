@@ -1,5 +1,8 @@
 package com.zh8888.Java_API.String;
 
+/**
+ * String 创建与输出示例：展示多种构造方式。
+ */
 public class StringDemo1 {
     /**
      * 主函数，用于演示不同方式创建和输出字符串。

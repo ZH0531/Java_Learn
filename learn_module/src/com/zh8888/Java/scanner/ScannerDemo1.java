@@ -2,6 +2,9 @@ package com.zh8888.Java.scanner;
 
 import java.util.Scanner;
 
+/**
+ * Scanner 使用示例：读取年龄与姓名，并输出欢迎信息。
+ */
 public class ScannerDemo1 {
     public static void main(String[] args) {
 

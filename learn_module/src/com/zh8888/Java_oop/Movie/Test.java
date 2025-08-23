@@ -2,6 +2,16 @@ package com.zh8888.Java_oop.Movie;
 
 import java.util.Scanner;
 
+/**
+ * 电影信息系统示例：基于命令行的简单交互。
+ * <p>
+ * 功能：
+ * <ul>
+ *   <li>查看全部电影</li>
+ *   <li>按ID查看详情</li>
+ *   <li>退出系统</li>
+ * </ul>
+ */
 public class Test {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

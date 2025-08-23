@@ -1,5 +1,8 @@
 package com.zh8888.Java.Array;
 
+/**
+ * 数组动态初始化与默认值展示：包含基本类型与引用类型。
+ */
 public class ArrayDemo2 {
     public static void main(String[] args) {
 

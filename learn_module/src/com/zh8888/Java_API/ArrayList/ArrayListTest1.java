@@ -2,6 +2,9 @@ package com.zh8888.Java_API.ArrayList;
 
 import java.util.ArrayList;
 
+/**
+ * ArrayList 过滤与删除示例：removeIf、正序/倒序遍历删除。
+ */
 public class ArrayListTest1 {
     /**
      * 主函数，用于演示从ArrayList中移除包含特定字符串的元素的不同方法。

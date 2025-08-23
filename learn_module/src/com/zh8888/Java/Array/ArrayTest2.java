@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class ArrayTest2 {
+/**
+ * 评委打分平均值：录入6名评委分数并计算平均。
+ */
     public static void main(String[] args) {
         //某歌唱比赛，需要开发一个系统：可以录入6名评委的打分，录入完毕后立即输出平均分做为选手得分。
 

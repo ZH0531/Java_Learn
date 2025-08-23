@@ -5,6 +5,9 @@ import java.util.Collection;
 import java.util.Iterator;
 import java.util.function.Consumer;
 
+/**
+ * Collection 遍历示例：迭代器、增强for、Lambda、方法引用。
+ */
 public class Demo2_bianli {
     public static void main(String[] args) {
         Collection<String> c = new ArrayList<>();
